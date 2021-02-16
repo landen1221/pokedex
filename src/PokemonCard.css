@@ -1,0 +1,54 @@
+.card {
+    display: inline-block;
+    width: 8em;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+}
+
+.fire {
+    color: maroon;
+    font-weight: bold;
+}
+
+.water {
+    color: blue;
+    font-weight: bold;
+}
+
+.electric {
+    color: gold;
+    font-weight: bold;
+}
+
+.poison {
+    color: purple;
+    font-weight: bold;
+}
+
+.normal {
+    font-weight: bold;
+}
+
+.bug {
+    color: green;
+    font-weight: bold;
+}
+
+.flying {
+    color: orangered;
+    font-weight: bold;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+

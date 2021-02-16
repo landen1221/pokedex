@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  padding-right: 25em;
+  padding-left: 25em;
+  margin-right: auto;
+  margin-left: auto;
+  
 }
 
 .App-logo {
